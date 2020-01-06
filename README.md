@@ -1,6 +1,8 @@
 # 亚航app最新版爬虫
 AirAsia app端爬虫,wToken与hashKey及报文体加解密的综合用法介绍
 
+详细介绍可参见我的博客 [亚航app航班价格抓取](https://blog.csdn.net/super19911115/article/details/103856044)
+
 # AirasiaTest.java
 
 通过actionCode为103获取userSession参数，再通过actionCode为302获取航
